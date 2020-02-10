@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/boiler-plate/static/css/main.d1b05096.chunk.css",
-    "main.js": "/boiler-plate/static/js/main.8fdef03d.chunk.js",
-    "main.js.map": "/boiler-plate/static/js/main.8fdef03d.chunk.js.map",
+    "main.js": "/boiler-plate/static/js/main.203c805a.chunk.js",
+    "main.js.map": "/boiler-plate/static/js/main.203c805a.chunk.js.map",
     "runtime-main.js": "/boiler-plate/static/js/runtime-main.86a4a989.js",
     "runtime-main.js.map": "/boiler-plate/static/js/runtime-main.86a4a989.js.map",
     "static/js/2.202247f0.chunk.js": "/boiler-plate/static/js/2.202247f0.chunk.js",
     "static/js/2.202247f0.chunk.js.map": "/boiler-plate/static/js/2.202247f0.chunk.js.map",
     "index.html": "/boiler-plate/index.html",
-    "precache-manifest.419bb2280c114e6826859808aee72dc6.js": "/boiler-plate/precache-manifest.419bb2280c114e6826859808aee72dc6.js",
+    "precache-manifest.6edc8574f1ec818837f229f989f16d4f.js": "/boiler-plate/precache-manifest.6edc8574f1ec818837f229f989f16d4f.js",
     "service-worker.js": "/boiler-plate/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/boiler-plate/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.202247f0.chunk.js.LICENSE.txt": "/boiler-plate/static/js/2.202247f0.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.86a4a989.js",
     "static/js/2.202247f0.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.8fdef03d.chunk.js"
+    "static/js/main.203c805a.chunk.js"
   ]
 }

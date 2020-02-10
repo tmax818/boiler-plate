@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a03bd6297648b1c635536e187bbb6df",
+    "revision": "5d331be2c2b8651f8934b7c0aa365db0",
     "url": "/boiler-plate/index.html"
   },
   {
-    "revision": "f0af746959c6e8a8160b",
+    "revision": "f709e6f8c659b2341692",
     "url": "/boiler-plate/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boiler-plate/static/js/2.202247f0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f0af746959c6e8a8160b",
-    "url": "/boiler-plate/static/js/main.8fdef03d.chunk.js"
+    "revision": "f709e6f8c659b2341692",
+    "url": "/boiler-plate/static/js/main.203c805a.chunk.js"
   },
   {
     "revision": "6de5fce3433425dc417c",
