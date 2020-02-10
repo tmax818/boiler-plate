@@ -2,9 +2,12 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import Navbar from './Navbar'
+
 function App() {
   return (
     <div className="App">
+      <Navbar/>
       <header className="App-header">
         <h1>Tyler's React Boiler Plate</h1>
         <h2>Day One</h2>
