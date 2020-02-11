@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b74789c6989cb82d3274c3044456a648",
+    "revision": "70e1ea84c41d74a09f79a8c527e6c841",
     "url": "/boiler-plate/index.html"
   },
   {
-    "revision": "8be6f733f800221e9189",
+    "revision": "049845e11ea14e3cc40b",
     "url": "/boiler-plate/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "ea3c0be23c8844b11b4f",
+    "revision": "3fb01c856954b072dbac",
     "url": "/boiler-plate/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "8be6f733f800221e9189",
-    "url": "/boiler-plate/static/js/2.7c42143b.chunk.js"
+    "revision": "049845e11ea14e3cc40b",
+    "url": "/boiler-plate/static/js/2.5a03d2d3.chunk.js"
   },
   {
-    "revision": "bfc08a62983de46a4daec9f8c3c657d8",
-    "url": "/boiler-plate/static/js/2.7c42143b.chunk.js.LICENSE.txt"
+    "revision": "bf23039b4e70a07c5aeb1b4010df3572",
+    "url": "/boiler-plate/static/js/2.5a03d2d3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ea3c0be23c8844b11b4f",
-    "url": "/boiler-plate/static/js/main.c51c9656.chunk.js"
+    "revision": "3fb01c856954b072dbac",
+    "url": "/boiler-plate/static/js/main.82126ffc.chunk.js"
   },
   {
     "revision": "6de5fce3433425dc417c",
